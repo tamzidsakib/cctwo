@@ -1,0 +1,26 @@
+.banner{
+	background-image: url(../images/slider3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.c_ind [data-bs-target]{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+.c_inner{
+	padding: 20% 20% 40%;
+	background-color: rgba(1, 1, 1, 0.6);
+}
+.slider{
+	color: white;
+}
+.slider h1{
+	margin-bottom: 20%;
+}
+.slider p{
+	margin-bottom: 30%;
+}
